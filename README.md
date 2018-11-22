@@ -2,7 +2,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 # 현재까지 등록된 내용
 
-### SpringBoot
+### Spring Boot
 * [Spock(SpringBoot 테스트 도구)](https://github.com/lemontia/test-spock)
 
 * [Spring Rest Docs + Spock + Rest Assure](https://github.com/lemontia/SpringRestDocs-Spock)
@@ -22,7 +22,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 
 
-### SpringBoot
+### Spring Security
 * [인증실패 시 핸들링 하는 법](https://github.com/lemontia/SpringSecurityBasicAuth)
 
 * [로그인 시 추가정보 User 에 담기](https://github.com/lemontia/SpringBootBase)
