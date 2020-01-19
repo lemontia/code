@@ -19,7 +19,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 * [(Mybatis-MariaDB) 다중DB 연결, 어노테이션 사용](https://github.com/lemontia/SpringbootMultiDataSources)
 
-* [react, springboot] react 와 spring boot 로 구성하기, 묶어 build 하기(https://github.com/lemontia/springboot_react)
+* [[react, springboot] react 와 spring boot 로 구성하기, 묶어 build 하기](https://github.com/lemontia/springboot_react)
 
 
 
