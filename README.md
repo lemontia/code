@@ -21,6 +21,9 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 * [[react, springboot] react 와 spring boot 로 구성하기, 묶어 build 하기](https://github.com/lemontia/springboot_react)
 
+* [[springboot] 데이터 사용 Service를 mockito 으로 테스트하기](https://github.com/lemontia/mockitoTest)
+
+
 
 
 ### Spring Security
