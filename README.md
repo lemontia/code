@@ -35,6 +35,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 * [회원가입 할 때 이미 가입한 회원이면 로그인 + Auth 하기](https://github.com/lemontia/SpringSecurityLogin)
 
+* [[springboot, oauth-client2, security, jwt] 라인(LINE) 소셜 로그인 연동](https://github.com/lemontia/springOauth2Client-LINE)
 
 
 
