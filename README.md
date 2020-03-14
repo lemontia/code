@@ -48,4 +48,4 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 
 ### Frontend
-* [[React] 다국어 처리(react-i18next) 적용하기 (https://github.com/lemontia/sample-react-i18next)
+* [[React] 다국어 처리(react-i18next) 적용하기](https://github.com/lemontia/sample-react-i18next)
