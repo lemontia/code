@@ -37,6 +37,8 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 * [[springboot, oauth-client2, security, jwt] 라인(LINE) 소셜 로그인 연동](https://github.com/lemontia/springOauth2Client-LINE)
 
+* [[springboot, oauth]spring oauth 인증서버 구축(DB 없이)](https://github.com/lemontia/spring_oauth-authorization_server-noDB)
+
 
 
 ### Node.js
