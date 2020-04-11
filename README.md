@@ -23,7 +23,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 * [[springboot] 데이터 사용 Service를 mockito 으로 테스트하기](https://github.com/lemontia/mockitoTest)
 
-
+* [[springboot] ControllerAdvice 응용해 return 꾸미기(HttpStatus 지정 포함)](https://github.com/lemontia/controllerAdviceCustom)
 
 
 ### Spring Security
