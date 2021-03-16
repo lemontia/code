@@ -42,7 +42,7 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 
 ### Etc...
-* [gradle, springboot] multi project 설정하기](https://github.com/lemontia/gradle_multi_module)
+* [[gradle, springboot] multi project 설정하기](https://github.com/lemontia/gradle_multi_module)
 
 
 ### Node.js
