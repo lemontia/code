@@ -57,3 +57,5 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 * [[React] 다국어 처리(react-i18next) 적용하기](https://github.com/lemontia/sample-react-i18next)
 
 * [[React] react + nextjs + redux + typescript 설정하기(redux toolkit 사용)](https://github.com/lemontia/react-redux-sample)
+
+* [[react, redux, next, typescript] 프로젝트 만들때 최소 설정하는 것 정리](https://github.com/lemontia/react-project-base-config/blob/main/README.md)
