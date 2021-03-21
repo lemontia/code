@@ -4,29 +4,18 @@ http://lemontia.tistory.com/ 에서 등록한 코드 입니다.
 
 ### Spring Boot
 * [Spock(SpringBoot 테스트 도구)](https://github.com/lemontia/test-spock)
-    * 관련글 [[SpringBoot] Spock 이용해 테스트코드 작성하기](https://lemontia.tistory.com/723)
-
 
 * [Spring Rest Docs + Spock + Rest Assure](https://github.com/lemontia/SpringRestDocs-Spock)
-    * 관련글 [[SpringBoot] Spring Rest Docs + Spock 사용하기](https://lemontia.tistory.com/746)
    
-
 * Cloud Config Server-Github에 설정파일 두고 사용하기
     - [설정파일](https://github.com/lemontia/SpringCloudConfigRepository)
     - [설정서버](https://github.com/lemontia/SpringCloudConfig_GIT)
-    - 관련글 [[SpringBoot] Cloud Config Server-Github에 설정파일 두고 사용하기](https://lemontia.tistory.com/612)
-
 
 * [Interceptor 안에 발생한 Exception, ControllerAdvice 로 관리하기](https://github.com/lemontia/IntercepterTest)
-    * 관련글 [[SpringBoot2.x] Interceptor 안에 발생한 Exception, ControllerAdvice 로 관리하기.](https://lemontia.tistory.com/648)
     
-
 * [session 을 redis 서버에 저장하기](https://github.com/lemontia/SpringBootSessionRedis)
-    * 관련글 [[SpringBoot] session 을 redis 서버에 저장하기.(gradle)](https://lemontia.tistory.com/617)
-   
 
 * [JPA 설정 및 테스트](https://github.com/lemontia/SpringSecurityLogin)
-    * 관련글 [[SpringBoot] JPA 설정 및 테스트](https://lemontia.tistory.com/597)
 
 
 
